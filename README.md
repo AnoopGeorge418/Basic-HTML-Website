@@ -3,7 +3,8 @@
 A multi-page website built using only HTML.
 
 ## Project URL
-https://github.com/AnoopGeorge418/Basic-HTML-Website.git
+
+https://roadmap.sh/projects/basic-html-website
 
 ## Pages
 
@@ -18,9 +19,8 @@ https://github.com/AnoopGeorge418/Basic-HTML-Website.git
 
 ```bash
 git clone https://github.com/AnoopGeorge418/Basic-HTML-Website.git
-
-2. Open `index.html` in your browser.
+```
 
 ## Repository URL
 
-https://github.com/AnoopGeorge418/Basic-HTML-Website.git
+https://github.com/AnoopGeorge418/Basic-HTML-Website
