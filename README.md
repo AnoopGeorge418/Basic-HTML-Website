@@ -3,7 +3,6 @@
 A multi-page website built using only HTML.
 
 ## Project URL
-
 https://github.com/AnoopGeorge418/Basic-HTML-Website.git
 
 ## Pages
